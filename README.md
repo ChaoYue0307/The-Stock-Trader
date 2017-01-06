@@ -1,7 +1,7 @@
 # The Stock Trader
 
-> A Vue.js SPA project for simulating stock trader jobs
-> Google Firebase was selected as the backend
+> A Vue.js SPA project for simulating stock trader jobs <br>
+> Google Firebase was selected as the backend<br>
 > Can be tries at : http://vuejs-deploy-chaoyue.s3-website-ap-southeast-1.amazonaws.com/
 
 ## Build Setup
